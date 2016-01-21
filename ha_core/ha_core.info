@@ -1,0 +1,9 @@
+name = HA Core
+core = 7.x
+version = 7.x-1.0
+description = HA Core custom code to rebuild HA Lighting site.
+
+dependencies[] = entity
+
+files[] = includes/ha_core_note.inline_entity_form.inc
+
